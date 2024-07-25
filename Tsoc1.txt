@@ -1,0 +1,35 @@
+user_id: "c1d049f4-d821-4696-8b98-3fc616c35461",
+    wallet_id: "35dc8885-d38a-4ce6-9c60-e4461ae581bb",
+    wallet_address: "1F6morw5qRWSBF6j61N778Vacbtoz1Hqen",
+    access_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjA1NDgxMTksImlhdCI6MTcxNzk1NjExOSwiaXNzIjoiaHR0cHM6Ly9uZXVjcm9uLmlvIiwianRpIjoiOWU3NjlhMjktZWY4YS00OWY3LWFlMWQtNzJmNzZiMzMDQ5ZjQtZDgyMS00Njk2LThiOTgtM2ZjNjE2YzM1NDYxIn0.IcFvGwNGdLC4gy_kY-tWFbvbD2MDQ5ZjQtZDgyMS00Njk2LThiOTgtM2ZjNjE2YzM1NDYxIn0.IcFvGwNGdLC4gy_kY-tWFbvbD2YX-T7jKxdP2TdKbPI",
+    pub_key: "03a93f3f58f9f2d21d74819a462102a487da987ad716acb8210a2e2e17c2b198a9",      
+    expires_at: "2024-07-09T18:01:59Z",
+    paymail_id: "rishikeshmishra2102@dev.neucron.io",
+
+
+
+
+
+
+//Balance 
+ data: {
+    balance: {
+      confirmed: 0,
+      unconfirmed: 10,
+      summary: 10,
+      count: 1,
+    },
+  },
+
+
+ txid: "ff5cd26c1278125f69fbb027fcd0c07775f2dd63faf268c388bc084159191b88"
+
+
+
+
+Private Key WIF format is  L53vWX4PaXxsfDkdP3nNtvmL8jFFTPiLsFwqRF5hsBsxGJhuHHyt
+Your bitcoin address is  12X5wpSuhwzK4F79WzHXLdBhTZEg2NKd7v
+
+TSOC WORKSHOP3 
+smart lock deployed : https://whatsonchain.com/tx/56ab00da295a35f2a6787bd1190f15e31b01927d1f8debba7e4e03e7f2d986fc
+contract unlocked successfully : https://whatsonchain.com/tx/39553c62d7b27cfc843f8d5bcf0bdc7745b49a0b8b96642ea6949bab434d0aee
